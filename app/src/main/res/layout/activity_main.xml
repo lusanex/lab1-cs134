@@ -24,7 +24,9 @@
         android:minHeight="48dp"
         android:inputType="number"
         android:ems="5"
-        android:importantForAutofill="no" />
+        android:importantForAutofill="no"
+        android:hint="@string/how_many"
+        />
 
     <TextView
         android:layout_width="wrap_content"
@@ -68,6 +70,7 @@
     <Button
         android:id="@+id/calc_button"
         android:text="@string/calculate"
+        android:textColor="@color/green_200"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
