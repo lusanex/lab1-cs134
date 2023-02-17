@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <!-- New primary colors theme -->
+    <color name="green_200">#c8fcf6</color>
+    <color name="green_119">#77f3e6</color>
+    <color name="green_21">#15c1b0</color>
+    <color name="green_5">#059183</color>
+    <color name="green_4">#04685e</color>
 </resources>
