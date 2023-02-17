@@ -15,4 +15,5 @@
     <color name="green_21">#15c1b0</color>
     <color name="green_5">#059183</color>
     <color name="green_4">#04685e</color>
+    <color name="text_app_color">#ffffff</color>
 </resources>
