@@ -6,7 +6,8 @@
     <string name="medium">Medium</string>
     <string name="ravenous">Ravenous</string>
     <string name="total_pizzas">Total pizzas: ?</string>
-    <string name="total_pizza_num">Total pizzas: %1$d </string>
+    <string name="total_pizza_num">Total pizzas: %1$s </string>
+
     <string name="calculate">Calculate</string>
     <string name="how_many">how many?</string>
 </resources>
